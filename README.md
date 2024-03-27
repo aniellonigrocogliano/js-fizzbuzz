@@ -23,5 +23,5 @@ Buon lavoro e buon divertimento! :relaxed:
 - [x] In caso il numero è multiplo di 3 sostituire il numero con "Fizz".
 - [x] In caso il numero è multiplo di 5 sostituire il numero con "Buzz".
 - [x] In caso il numero è multiplo sia di 3 che di 5 sostituire il numero con "FizzBuzz".
-- [ ] Creare un contenitore dove mostrare il risultato.
-- [ ] Stilizzare il risultato in modo più accattivante ispirandoci all'immagine allegata alla consegna.
+- [x] Creare un contenitore dove mostrare il risultato.
+- [x] Stilizzare il risultato in modo più accattivante ispirandoci all'immagine allegata alla consegna.

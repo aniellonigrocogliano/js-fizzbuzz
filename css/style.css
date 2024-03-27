@@ -34,7 +34,7 @@
      height: calc(100vh/10);
      width: calc(100vh/10);
     border: none;
-    background-color: aquamarine;
+    border-radius: 15px;
     margin: 25px;
   }
   /* asseggno i colori ai quadrati */
