@@ -15,7 +15,8 @@ Consigli del giorno:
 1. scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 2. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento! :relaxed:
-[link](./img/screenshot.png)
+
+<img src="./img/screenshot.png" width="400">
 ## Svolgimento
 - [ ] Creare un ciclo che generi 100 numeri, da 1 a 100.
 - [ ] In caso il numero è multiplo di 3 sostituire il numero con "Fizz".
@@ -23,8 +24,3 @@ Buon lavoro e buon divertimento! :relaxed:
 - [ ] In caso il numero è multiplo sia di 3 che di 5 sostituire il numero con "FizzBuzz".
 - [ ] Creare un contenitore dove mostrare il risultato.
 - [ ] Stilizzare ilò risultato in modo più accattivante ispirandoci all'immagine allegata alla consegna.
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
