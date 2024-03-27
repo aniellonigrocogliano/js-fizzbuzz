@@ -3,55 +3,64 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
-  /* creo le mie variabili colori */
-  :root {
+}
+
+/* creo le mie variabili colori */
+:root {
     --white: #FFFFFF;
     --blu-strong: #093B4C;
     --blu: #2289B2;
     --green: #38D6A1;
     --yellow: #FCD166;
     --red: #F0466F;
-  }
-  /* creo contenitore e quadrati */
- main{
+}
+
+/* creo contenitore e quadrati */
+main {
     background-color: var(--blu-strong);
     display: flex;
     justify-content: center;
 
-  }
-  .container{
+}
+
+.container {
     width: 80%;
     display: flex;
     flex-wrap: wrap;
-    padding 15px;
-    justify-content:  space-between;
-  }
-  .square{
+    padding: 15px;
+    justify-content: space-between;
+}
+
+.square {
     display: flex;
     justify-content: center;
     align-items: center;
-     height: calc(100vh/10);
-     width: calc(100vh/10);
+    height: calc(100vh/10);
+    width: calc(100vh/10);
     border: none;
     border-radius: 15px;
     margin: 25px;
     font-weight: bold;
     font-size: 1rem;
-  }
-  /* asseggno i colori ai quadrati */
-  .blu{
+}
+
+/* asseggno i colori ai quadrati */
+.blu {
     background-color: var(--blu);
-  }
-  .green {
+}
+
+.green {
     background-color: var(--green);
-  }
-  .yellow{
+}
+
+.yellow {
     background-color: var(--yellow);
-  }
-  .red{
+}
+
+.red {
     background-color: var(--red);
-  }
+}
+
 /* personalizzo h1 */
 h1 {
     color: var(--white);

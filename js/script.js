@@ -1,8 +1,8 @@
 const container = document.querySelector(".container"); // object | null
 console.log(container);
 for (let i = 1; i <= 100; i++) { //creazione di 100 numeri da 1 a 100.
-   let number = i;
-   let myClassAdd = "blu"; // Imposto tutti i quadrati di colore blu.
+    let number = i;
+    let myClassAdd = "blu"; // Imposto tutti i quadrati di colore blu.
     if (i % 3 === 0 && i % 5 === 0) {
         number = "FizzBuzz"; //Sostituisco il numero multiplo di 3 e di 5 con FizzBuzz.
         myClassAdd = "yellow"; // coloro di giallo il quadrato FizzBuzz.
