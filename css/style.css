@@ -1,8 +1,10 @@
+/* reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
+  /* creo le mie variabili colori */
   :root {
     --white: #FFFFFF;
     --blu-strong: #093B4C;
@@ -11,10 +13,12 @@
     --yellow: #FCD166;
     --red: #F0466F;
   }
-  body{
+  /* creo contenitore e quadrati */
+ main{
     background-color: var(--blu-strong);
     display: flex;
-    justify-content: center
+    justify-content: center;
+
   }
   .container{
     width: 80%;
@@ -33,6 +37,7 @@
     background-color: aquamarine;
     margin: 25px;
   }
+  /* asseggno i colori ai quadrati */
   .blu{
     background-color: var(--blu);
   }
@@ -45,3 +50,11 @@
   .red{
     background-color: var(--red);
   }
+/* ersonalizzo h1 */
+h1 {
+    color: var(--white);
+    font-size: 3.5rem;
+    font-weight: 900;
+    text-align: center;
+    background-color: var(--blu-strong);
+}
