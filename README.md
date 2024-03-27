@@ -21,7 +21,7 @@ Buon lavoro e buon divertimento! :relaxed:
 ## Svolgimento
 - [x] Creare un ciclo che generi 100 numeri, da 1 a 100.
 - [x] In caso il numero è multiplo di 3 sostituire il numero con "Fizz".
-- [ ] In caso il numero è multiplo di 5 sostituire il numero con "Buzz".
+- [x] In caso il numero è multiplo di 5 sostituire il numero con "Buzz".
 - [ ] In caso il numero è multiplo sia di 3 che di 5 sostituire il numero con "FizzBuzz".
 - [ ] Creare un contenitore dove mostrare il risultato.
 - [ ] Stilizzare il risultato in modo più accattivante ispirandoci all'immagine allegata alla consegna.
