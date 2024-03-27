@@ -16,7 +16,8 @@ Consigli del giorno:
 2. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento! :relaxed:
 
-<img src="./img/screenshot.png" width="400">
+<img src="./img/screenshot.png" width="450">
+
 ## Svolgimento
 - [ ] Creare un ciclo che generi 100 numeri, da 1 a 100.
 - [ ] In caso il numero è multiplo di 3 sostituire il numero con "Fizz".
